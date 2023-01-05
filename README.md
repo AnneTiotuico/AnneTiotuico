@@ -1,4 +1,7 @@
 ### Hi there 👋
+I’m a full-stack software engineer who is passionate about understanding and solving problems. I have experience in JavaScript/Node.js, Go, React, PostgreSQL, MongoDB, Docker, and AWS.
+
+Most recently, I created [Cascade](https://try-cascade.github.io/), an open-source deployment tool for containerized applications built with Node.js, Express, React, Terraform's CDK for TypeScript and AWS' SDK.
 
 <!--
 **AnneTiotuico/AnneTiotuico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
